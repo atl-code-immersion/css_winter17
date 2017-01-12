@@ -1,0 +1,104 @@
+p {
+	color: red;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+/* this is a comment */
+
+div p {
+	color: blue;
+	font-size: 10px;
+}
+
+div div p {
+	color: green;
+	font-size: 42px;
+}
+
+h2, h3 {
+	color: yellow;
+}
+
+body {
+	text-align: center;
+	background: url("../images/cloudy-day.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+.hover-test:hover {
+	font-size: 50px;
+	text-decoration: none;
+}
+
+a:visited {
+	color: tomato;
+}
+
+.coollinks:visited {
+	color: fuchsia;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+}
+
+#transparent-div {
+	background-color: rgba(0,0,0,0.2);
+}
+
+#circle {
+	border: 2px dotted green;
+	height: 250px;
+	width: 250px;
+	border-radius: 125px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.challenge {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	display: inline;
+}
+
+#box1 {
+	background: #ff0000;
+}
+
+#box2 {
+	background: #0000ff;
+
+}
+
+#box3 {
+	background: #ffd700; 
+
+}
+
+#box4 {
+	background: #308014; 
+
+}
+
+.box-model {
+	border: 1px solid black;
+	padding: 10px 20px 0px 15px;
+	margin: 20px 43px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
